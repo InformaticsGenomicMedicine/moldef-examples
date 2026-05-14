@@ -1,0 +1,19 @@
+{
+  "file_name": "clinvar_gks_variation_2025_12_08_v2_4_3.jsonl.gz",
+  "start_date": "2025-12-26",
+  "start_time": "12:41:49",
+  "end_date": "2025-12-26",
+  "end_time": "14:25:16",
+  "duration_seconds": 6206.84,
+  "total_lines_read": 4216749,
+  "vrs_allele_seen": 4128680,
+  "vrs_allele_types": {
+    "lse_count": 3874775,
+    "rle_count": 253308,
+    "other_count": 0
+  },
+  "total_translated": 4128083,
+  "failed_vrs_allele_validation": 597,
+  "failed_vrs_to_fhir_translation": 0,
+  "total_failed": 597
+}
